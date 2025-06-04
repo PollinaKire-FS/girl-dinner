@@ -3,7 +3,6 @@
 A silly little meal generator powered by chaos and js.
 
 [![🌈 LIVE DEMO](https://img.shields.io/badge/🌈_LIVE_DEMO-ff79c6?style=for-the-badge)](https://kirenia.me/girl-dinner)
-[![🗂 REPO](https://img.shields.io/badge/🗂_REPO-bd93f9?style=for-the-badge)](https://github.com/PollinaKire-FS/girl-dinner)
 
 ## tiny tech stack
 [![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&labelColor=ff5733&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
