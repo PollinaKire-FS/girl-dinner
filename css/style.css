@@ -1,0 +1,62 @@
+/* Default Values */
+:root {
+	--color-bg: #282a36;
+	--color-primary: #ff79c6;
+	--color-secondary: #bd93f9;
+	--color-lines: #000;
+	--color-text: #f8f8f2;
+	--font-family: "HK Grotesk";
+}
+
+/* Page Styles */
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: var(--font-family);
+	background-color: var(--color-bg);
+	color: var(--color-text);
+	text-align: center;
+}
+
+h1 {
+	color: var(--color-primary);
+}
+
+/* Import Fonts */
+@font-face {
+	font-family: HK Grotesk;
+	src: url("https://cdn.glitch.me/605e2a51-d45f-4d87-a285-9410ad350515%2FHKGrotesk-Regular.otf?v=1603136326027")
+		format("opentype");
+}
+@font-face {
+	font-family: HK Grotesk;
+	font-weight: bold;
+	src: url("https://cdn.glitch.me/605e2a51-d45f-4d87-a285-9410ad350515%2FHKGrotesk-Bold.otf?v=1603136323437")
+		format("opentype");
+}
+
+/* Button Styles */
+button {
+	font-family: HK Grotesk;
+	padding: 0.75rem 1rem;
+	font-size: 1.1rem;
+	line-height: 1rem;
+	font-weight: 500;
+	height: 2.75rem;
+	align-items: center;
+	cursor: pointer;
+	background: var(--color-text);
+	border: 1px solid var(--color-lines);
+	box-sizing: border-box;
+	border-radius: 4px;
+	text-decoration: none;
+	color: var(--color-lines);
+	white-space: nowrap;
+	margin-left: auto;
+}
+
+button:hover {
+	background-color: var(--color-secondary);
+}
