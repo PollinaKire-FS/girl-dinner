@@ -14,4 +14,4 @@ A silly little meal generator powered by chaos and js.
 
 ## a bit about this endeavor
 
-This is my Day 1 project for [#100DaysOfCode](https://github.com/PollinaKire-FS/100-days-of-code/blob/main/log.md). I’m wrapping up my first year back in development after a few years in healthcare, and I’m enjoying the process a lot more this time around. [Read more about my journey in my log](https://github.com/PollinaKire-FS/100-days-of-code/blob/main/log.md), or [follow along on Bluesky](https://bsky.app/profile/kirenia.bsky.social). Thanks for stopping by!
+This is my Day 1 project for [#100DaysOfCode](https://github.com/PollinaKire-FS/100-days-of-code/blob/master/log.md). I’m wrapping up my first year back in development after a few years in healthcare, and I’m enjoying the process a lot more this time around. [Read more about my journey in my log](https://github.com/PollinaKire-FS/100-days-of-code/blob/master/log.md), or [follow along on Bluesky](https://bsky.app/profile/kirenia.bsky.social). Thanks for stopping by!
